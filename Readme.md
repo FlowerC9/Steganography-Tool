@@ -21,7 +21,7 @@
 4. ## Installation
 - open terminal and type following commands
     ```
-    git clone https://github.com/YourUsername/SteganographyTool.git
+    git clone https://github.com/FlowerC9/Steganography-Tool.git
     ```
 
     ```
